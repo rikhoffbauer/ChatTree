@@ -44,7 +44,7 @@
 // @description:zh-HK ChatGPT ChatTree 🌳，🚀永久、不受限制地管理您與ChatGPT的每一次互動🚀 🔄實時ChatGPT對話樹更新+可視化🔄 💡ChatGPT對話提示，自定義註釋，書籤💡🔍 ChatGPT智能搜索：快速定位特定對話🔍 📋ChatGPT互動管理面板，界面友好，全面ChatGPT互動管理選項，分類、標籤和更多📋
 // @description:zh-SG ChatGPT ChatTree 🌳，🚀永久、不受限制地管理您与ChatGPT的每一次互动🚀 🔄实时ChatGPT对话树更新+可视化🔄 💡ChatGPT对话提示，自定义注释，书签💡🔍 ChatGPT智能搜索：快速定位特定对话🔍 📋ChatGPT互动管理面板，界面友好，全面ChatGPT互动管理选项，分类、标签和更多📋
 // @author   cuizhenzhi
-// @match    *://chat.openai.com/*
+// @match    https://chat.openai.com/*
 // @grant    GM_addStyle
 // @grant    GM_getResourceText
 // @require  https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js
